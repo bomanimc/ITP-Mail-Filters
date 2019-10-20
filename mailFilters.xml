@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001571412519533*5589704162553102279,z0000001571412819578*7708967138392511620,z0000001571412946626*3751509310600626031,z0000001571413492945*4673036969877547609,z0000001571414069415*3596540449230779378,z0000001571414166732*7134607635428372793,z0000001571414482584*4381913062942153304,z0000001571414562490*1412726273413068354,z0000001571414660526*2462878533506677522</id>
+	<updated>2019-10-20T16:43:55Z</updated>
+	<author>
+		<name>Bomani Oseni McClendon</name>
+		<email>bom211@nyu.edu</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001571412519533*5589704162553102279</id>
+		<updated>2019-10-20T16:43:55Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;[itp-students][lost]&quot; OR &quot;[itp-students][u seen]&quot;'/>
+		<apps:property name='label' value='Lost &amp; Found'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001571412819578*7708967138392511620</id>
+		<updated>2019-10-20T16:43:55Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;[itp-students] [PCOMP Help Session]&quot; OR &quot;[itp-students] [ICM Help Session]&quot;'/>
+		<apps:property name='label' value='Course Help Sessions'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001571412946626*3751509310600626031</id>
+		<updated>2019-10-20T16:43:55Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;[itp-students] [U HAZ]&quot; OR &quot;[itp-students] [Looking For]&quot; OR &quot;[itp-students] [have u seen]&quot;'/>
+		<apps:property name='label' value='Seeking Materials'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001571413492945*4673036969877547609</id>
+		<updated>2019-10-20T16:43:55Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;[itp-students][take my]&quot;'/>
+		<apps:property name='label' value='Office Hours Release'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001571414069415*3596540449230779378</id>
+		<updated>2019-10-20T16:43:55Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;[itp-students] [Tech &amp; Society]&quot;'/>
+		<apps:property name='label' value='Tech &amp; Society'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001571414166732*7134607635428372793</id>
+		<updated>2019-10-20T16:43:55Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;[itp-students] [Feedback Collective]&quot;'/>
+		<apps:property name='label' value='Feedback Collective'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001571414482584*4381913062942153304</id>
+		<updated>2019-10-20T16:43:55Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;[itp-students] [Surveillance Working Group]&quot;'/>
+		<apps:property name='label' value='Surveillance Working Group'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001571414562490*1412726273413068354</id>
+		<updated>2019-10-20T16:43:55Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;[Syllabus Links]&quot;'/>
+		<apps:property name='label' value='Syllabus Links'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001571414660526*2462878533506677522</id>
+		<updated>2019-10-20T16:43:55Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;[Coding Lab]&quot;'/>
+		<apps:property name='label' value='Coding Lab'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
